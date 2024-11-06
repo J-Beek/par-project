@@ -1,0 +1,16 @@
+- Make buttons navigate with JS
+- design: 
+  + home page
+  + pathway pages
+  + Account page
+  + Favorites page
+- Create login/sign up menu
+- track user's progress on pathway
+- add animations to everything
+- make it look smooth
+- add a "tools/toolbox" page
+- learn color theory to make it pleasing
+- add quizzing feature
+  + add gpt api
+  + track user's quizzes in database
+  + allow user's to see their results
