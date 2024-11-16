@@ -1,17 +1,9 @@
-- Make buttons navigate with JS
-+ play around with gradients!
-- design: 
-  + home page
-  + pathway pages
-  + Account page
-  + Favorites page
-- Create login/sign up menu
-- track user's progress on pathway
-- add animations to everything
-- make it look smooth
-- add a "tools/toolbox" page
-- learn color theory to make it pleasing
-- add quizzing feature
-  + add gpt api
-  + track user's quizzes in database
-  + allow user's to see their results
++ add a separate branch for the gpt tester
++ Outline pathway 
+ - design the pathway structure
+
+ do the same for all other html files
+
+ add a dark mode and dark mode toggle 
+
+ What else Do I need to do to accomplish my goal for the project?
