@@ -48,6 +48,12 @@ body {
     gap: 10px;
     max-height: calc(100vh - 240px);
     overflow-y: auto;
+    scrollbar-width: none;  /* Firefox */
+    -ms-overflow-style: none;  /* IE and Edge */
+}
+
+.nav-links::-webkit-scrollbar {
+    display: none;  /* Chrome, Safari and Opera */
 }
 
 #nav-button {
